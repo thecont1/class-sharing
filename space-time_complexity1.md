@@ -1,4 +1,4 @@
-# Let's Chat about Space-time Complexity
+# We need to talk about Space-Time Complexity
 
 Let's dive into time-space complexity &mdash; a core concept in computer science used to evaluate algorithms based on how efficiently they use time (number of operations) and space (amount of memory). The goal is to understand how the performance of an algorithm scales with the input size.
 
